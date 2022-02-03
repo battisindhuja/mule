@@ -1,0 +1,4 @@
+my emp id is 1001
+name:sindhuja
+location:chennai
+age:26
